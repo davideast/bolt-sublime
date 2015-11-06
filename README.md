@@ -1,6 +1,8 @@
-# bolt-sublime
+![Bolt Sublime](logo.png)
 
 Syntax highlighting for [the Bolt compiler](https://firebase.com/docs/security/bolt/quickstart.html) for Sublime Text 3.
+
+## Sytax in Action
 
 ![Bolt highlighting](bolt-syntax.png)
 
@@ -9,7 +11,6 @@ Syntax highlighting for [the Bolt compiler](https://firebase.com/docs/security/b
 This is a rough fork of [Brian Ford's JavaScript Sublime Pacakge](https://github.com/btford/sublime-text-javascript).
 
 PRs accepted :)
-
 
 ## Installation - OSX
 1. Clone the repo
