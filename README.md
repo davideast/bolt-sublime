@@ -2,7 +2,7 @@
 
 Syntax highlighting for [the Bolt compiler](https://firebase.com/docs/security/bolt/quickstart.html) for Sublime Text 3.
 
-## Sytax in Action
+## Syntax in Action
 
 ![Bolt highlighting](bolt-syntax.png)
 
