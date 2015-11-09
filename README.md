@@ -8,9 +8,7 @@ Syntax highlighting for [the Bolt compiler](https://firebase.com/docs/security/b
 
 ### I am not a Sublime Text 3 expert.
 
-This is a rough fork of [Brian Ford's JavaScript Sublime Pacakge](https://github.com/btford/sublime-text-javascript).
-
-PRs accepted :)
+This is not an offically supported Firebase repo. This is community-based. So PRs are totally accepted. This is a rough fork of [Brian Ford's JavaScript Sublime Pacakge](https://github.com/btford/sublime-text-javascript).
 
 ## Installation - OSX
 1. Clone the repo
