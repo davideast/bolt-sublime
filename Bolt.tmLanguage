@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>comment</key>
-	<string>Bolt Syntax: version 0.1</string>
+	<string>Bolt Syntax: version 0.8</string>
 	<key>fileTypes</key>
 	<array>
 		<string>bolt</string>
@@ -557,7 +557,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(read|write|validate|)\b</string>
+			<string>\b(read|write|update|create|delete|index|validate|)\b</string>
 			<key>name</key>
 			<string>storage.modifier.bolt</string>
 		</dict>
