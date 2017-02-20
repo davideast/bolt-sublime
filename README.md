@@ -12,13 +12,13 @@ This is not an offically supported Firebase repo. This is community-based. So PR
 
 ## Installation - OSX
 1. Clone the repo
-1. run ./link.sh
-1. Profit
+2. run ./install.sh
+3. The cloned folder is safe to remove
 
 ## Installation - Windows
 1. Clone the repo
-1. Move the unzipped files into `C:\Program Files\Sublime Text 3\Packages`
-1. Profit
+2. Move the unzipped files into `C:\Program Files\Sublime Text 3\Packages`
+3. Profit
 
 Copyright 2015 David East
 
