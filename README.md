@@ -10,15 +10,23 @@ Syntax highlighting for [the Bolt compiler](https://firebase.com/docs/security/b
 
 This is not an offically supported Firebase repo. This is community-based. So PRs are totally accepted. This is a rough fork of [Brian Ford's JavaScript Sublime Pacakge](https://github.com/btford/sublime-text-javascript).
 
+## Installation - Sublime Package Control
+1. Open the package control menu in Sublime
+2. Choose 'Package Control: Add Repository'
+3. Add this repository
+4. Open the menu again and install the package 'bolt-sublime'
+5. Enjoy!
+
 ## Installation - OSX
 1. Clone the repo
-1. run ./link.sh
-1. Profit
+2. run ./install.sh
+3. The cloned folder is safe to remove
+4. Enjoy!
 
 ## Installation - Windows
 1. Clone the repo
-1. Move the unzipped files into `C:\Program Files\Sublime Text 3\Packages`
-1. Profit
+2. Move the unzipped files into `C:\Program Files\Sublime Text 3\Packages`
+3. Enjoy!
 
 Copyright 2015 David East
 
